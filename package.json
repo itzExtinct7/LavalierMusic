@@ -1,0 +1,18 @@
+{
+  "name": "discord-lavalink-music-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord Music Bot built with Discord.js v14 and Lavalink v4 (lavalink-client)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "lavalink-client": "^2.9.0"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
